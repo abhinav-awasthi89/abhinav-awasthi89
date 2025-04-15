@@ -88,8 +88,7 @@ Added interactive product demo, improving lead quality by 30% and conversion by 
 ## 📈 GitHub Stats  
 
 <div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-awasthi89&show_icons=true&theme=tokyonight" alt="Abhinav's GitHub Stats" />  
-  <img src="https://streak-stats.demolab.com/?user=abhinav-awasthi89&theme=tokyonight" alt="Abhinav's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinav-awasthi89&show_icons=true&theme=tokyonight" alt="Abhinav's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-awasthi89&layout=compact&theme=tokyonight" alt="Top Languages" />  
 </div>  
 
